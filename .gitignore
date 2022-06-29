@@ -1,0 +1,15 @@
+
+OnionArchitecture/Contracts/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+OnionArchitecture/Contracts/obj/
+OnionArchitecture/Domain/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+OnionArchitecture/Domain/obj/
+OnionArchitecture/Persistence/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+OnionArchitecture/Persistence/obj/
+OnionArchitecture/Presentation/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+OnionArchitecture/Presentation/obj/
+OnionArchitecture/Services.Abstractions/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+OnionArchitecture/Services.Abstractions/obj/
+OnionArchitecture/Services/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+OnionArchitecture/Services/obj/
+OnionArchitecture/Web/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+OnionArchitecture/Web/obj/
